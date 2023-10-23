@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+h1, h2, h3, h4, h5, p {
+  text-decoration-line: underline;
+    letter-spacing: 8px;
+    text-shadow: 2px 2px blue; 
+  text-decoration-color: rgb(4, 137, 252);
+ 
+}
+
+<style> h1, h2, h3, h4, h5, p {
+  text-size-adjust: 9000px;
+} </style>
+
+h1, h2, h3, h4, h5, p {
+  text-decoration-line: underline;
+ text-size-adjust: 600px;
+}
+img {
+  border-radius: 20px;
+}
+
+
+
+body {
+}
+h1, h2, h3, h4, h5, p{ 
+  text-shadow: 2px 2px white;
+  text-decoration-color: aliceblue;
+}
+h4 {
+  text-align: left;
+}
+
+
